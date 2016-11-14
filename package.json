@@ -1,0 +1,19 @@
+{
+  "name": "myclinic-web-cashier",
+  "version": "1.0.0",
+  "description": "Local web server for myclinic cashier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hangilc/myclinic-web-cashier.git"
+  },
+  "author": "Hangil Chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hangilc/myclinic-web-cashier/issues"
+  },
+  "homepage": "https://github.com/hangilc/myclinic-web-cashier#readme"
+}
