@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/hangilc/myclinic-web-cashier/issues"
   },
-  "homepage": "https://github.com/hangilc/myclinic-web-cashier#readme"
+  "homepage": "https://github.com/hangilc/myclinic-web-cashier#readme",
+  "dependencies": {
+    "myclinic-cashier": "^1.0.0",
+    "myclinic-drawer-print-server": "^2.0.1",
+    "myclinic-web": "^1.0.9"
+  }
 }
