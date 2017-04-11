@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hangilc/myclinic-web-cashier#readme",
   "dependencies": {
-    "myclinic-cashier": "^1.0.0",
+    "myclinic-cashier": "^1.0.3",
     "myclinic-drawer-print-server": "^2.0.1",
     "myclinic-web": "^1.0.9"
   }
